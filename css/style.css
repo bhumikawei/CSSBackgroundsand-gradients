@@ -1,0 +1,23 @@
+body {
+    height: 3000px;
+    background-color: #f3f3f3;
+}
+.section-1 {
+    background-image: url("../images/gurlllll2.0.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    margin-bottom: 20px;
+}
+.section-2 {
+    background: transparent url("../images/gutlll2.1.jpg") no-repeat fixed center center;
+    background-size: contain;
+    height: 400px;
+    margin-bottom: 20px;
+}
+.section-3 {
+    background: url("../images/sing\ 2.jpg") repeat;
+    height: 500px;
+    margin-bottom: 20px;
+}
